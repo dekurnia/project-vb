@@ -1,0 +1,215 @@
+[Root]
+Most Recent Package=inventory
+
+
+[Package|inventory|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=e:\Project All\PengolahanBarang(7)\PengolahanBarang
+
+[Package|inventory|Configure DAO ISAMs]
+Applicable=No
+
+[Package|inventory|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|inventory|Files Found]
+
+[Package|inventory|Files Released]
+u2LBAR.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+exportmodeller.dll=
+crtslv.dll=
+Crystal=
+
+[Package|inventory|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\Windows\System32\MSSTDFMT.DLL=
+
+[Package|inventory|Out-of-Date Dependency Information]
+C:\Windows\System32\COMCT332.OCX=
+C:\Windows\System32\MSCOMCTL.OCX=
+C:\Windows\System32\comdlg32.ocx=
+C:\Windows\System32\MSCOMCT2.OCX=
+
+[Package|inventory|Files Added]
+
+[Package|inventory|Files Removed]
+
+[Package|inventory|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\MSRDC20.OCX=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Windows\System32\TABCTL32.OCX=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\comdlg32.ocx=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\MSCOMCT2.OCX=Yes
+C:\Windows\System32\MSINET.OCX=Yes
+C:\Windows\System32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Windows\System32\MSCHRT20.OCX=Yes
+C:\Windows\System32\MSWINSCK.OCX=Yes
+C:\Windows\System32\MSMAPI32.OCX=Yes
+C:\Windows\System32\MCI32.OCX=Yes
+C:\Windows\System32\PICCLP32.OCX=Yes
+C:\Windows\System32\SYSINFO.OCX=Yes
+C:\Windows\System32\MSCOMM32.OCX=Yes
+C:\Windows\System32\MSMASK32.OCX=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\MSDATLST.OCX=Yes
+C:\Windows\System32\COMCT332.OCX=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\MSHFLXGD.OCX=Yes
+C:\Windows\System32\Crystl32.OCX=Yes
+C:\Windows\System32\crpe32.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Project All\PengolahanBarang(7)\PengolahanBarang\invent.exe=Yes
+
+[Package|inventory|Configure Registry Files]
+Applicable=No
+
+[Package|inventory|Configure Remote Servers]
+Applicable=No
+
+[Package|inventory|Install Locations]
+D:\PengolahanBarang\invent.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\MSRDC20.OCX=$(WinSysPath)
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comdlg32.ocx=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\MSINET.OCX=$(WinSysPath)
+C:\Windows\System32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\System32\MSWINSCK.OCX=$(WinSysPath)
+C:\Windows\System32\MSMAPI32.OCX=$(WinSysPath)
+C:\Windows\System32\MCI32.OCX=$(WinSysPath)
+C:\Windows\System32\PICCLP32.OCX=$(WinSysPath)
+C:\Windows\System32\SYSINFO.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMM32.OCX=$(WinSysPath)
+C:\Windows\System32\MSMASK32.OCX=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\System32\COMCT332.OCX=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\MSHFLXGD.OCX=$(WinSysPath)
+C:\Windows\System32\Crystl32.OCX=$(WinSysPath)
+C:\Windows\System32\crpe32.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Windows\System32\implode.dll=$(WinSysPath)
+C:\Windows\System32\Crpaig80.dll=$(WinSysPath)
+C:\Windows\System32\msvcrt.dll=$(WinSysPath)
+C:\Windows\System32\mfc42.dll=$(WinSysPath)
+C:\Windows\Crystal\Crxlat32.dll=$(WinSysPath)
+C:\Windows\Crystal\p2bbde.dll=$(WinSysPath)
+C:\Windows\System32\p2bbnd.dll=$(WinSysPath)
+C:\Windows\System32\p2bdao.dll=$(WinSysPath)
+C:\Windows\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\Windows\System32\p2ctdao.dll=$(WinSysPath)
+C:\Windows\System32\p2irdao.dll=$(WinSysPath)
+C:\Windows\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\Windows\System32\P2smon.dll=$(WinSysPath)
+C:\Windows\System32\p2sodbc.dll=$(WinSysPath)
+C:\Windows\Crystal\p2sora7.dll=$(WinSysPath)
+C:\Windows\Crystal\p2ssql.dll=$(WinSysPath)
+C:\Windows\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\Windows\Crystal\p2soledb.dll=$(WinSysPath)
+C:\Windows\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\Windows\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\Windows\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\Windows\Crystal\u2dpost.dll=$(WinSysPath)
+C:\Windows\Crystal\u2dvim.dll=$(WinSysPath)
+C:\Windows\Crystal\u2dapp.dll=$(WinSysPath)
+C:\Windows\Crystal\u2fcr.dll=$(WinSysPath)
+C:\Windows\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\Windows\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\Windows\Crystal\u2frec.dll=$(WinSysPath)
+C:\Windows\Crystal\crxf_rtf.dll=$(WinSysPath)
+C:\Windows\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\Windows\Crystal\u2ftext.dll=$(WinSysPath)
+C:\Windows\Crystal\u2fwks.dll=$(WinSysPath)
+C:\Windows\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\Windows\Crystal\u2fxls.dll=$(WinSysPath)
+C:\Windows\Crystal\crxf_pdf.dll=$(WinSysPath)
+C:\Windows\Crystal\u25dts.dll=$(WinSysPath)
+C:\Windows\Crystal\u2l2000.dll=$(WinSysPath)
+C:\Windows\Crystal\u2lcom.dll=$(WinSysPath)
+C:\Windows\Crystal\u2ldts.dll=$(WinSysPath)
+C:\Windows\Crystal\u2lsamp1.dll=$(WinSysPath)
+C:\Windows\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\shared\SSCSDK80.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\Windows\System32\odbc32.dll=$(WinSysPathSysFile)
+E:\Project All\PengolahanBarang(7)\PengolahanBarang\invent.exe=$(AppPath)
+
+[Package|inventory|Configure Shared Files]
+Applicable=Yes
+D:\PengolahanBarang\invent.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+E:\Project All\PengolahanBarang(7)\PengolahanBarang\invent.exe=Yes
+
+[Package|inventory|Distribution]
+Type=single
+Size=2.88 MB
+Title=Inventory
+
+[Package|inventory|DepFile]
+DepCabFile=invent.CAB
+DepCabRun=invent.INF
+
+[Package|inventory|Package]
+PackageFolder=D:\PengolahanBarang
+ProjectFolder=D:\PengolahanBarang
+ServerSideCab=
+File1=D:\PengolahanBarang\setup.exe
+File2=D:\PengolahanBarang\Setup.Lst
+File3=D:\PengolahanBarang\invent.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|inventory|IconGroups]
+Group0=Inventory
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|inventory|Inventory]
+Icon1=invent.exe
+Title1=Inventory
+StartIn1=$(AppPath)
+Key1=Icon1
